@@ -4,3 +4,4 @@ tmp/*
 *.xml
 *.json
 *.bak
+*.cache
