@@ -4,4 +4,4 @@ tmp/*
 *.xml
 *.json
 *.bak
-
+*.suo
