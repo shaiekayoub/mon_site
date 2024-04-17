@@ -1,9 +1,10 @@
 tmp/test.txt
+tmp/*
 *.txt
 tmp/*
 *.xml
 *.json
 *.bak
+*.bak
 *.cache
 *.suo
-
