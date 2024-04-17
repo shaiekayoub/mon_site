@@ -1,7 +1,8 @@
 tmp/test.txt
+tmp/*
 *.txt
 tmp/*
 *.xml
 *.json
-
+*.bak
 
