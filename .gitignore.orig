@@ -1,0 +1,7 @@
+tmp/test.txt
+*.txt
+tmp/*
+*.xml
+*.json
+*.bak
+
